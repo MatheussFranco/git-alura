@@ -37,7 +37,7 @@
  ```bash 
     
     # Clonar o repositório 
-    $ git clone https://github.com/MatheussFranco/git-semana01.git
+    $ git clone https://github.com/MatheussFranco/git-alura.git
 
 ```
 ---
